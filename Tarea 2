@@ -1,0 +1,9 @@
+public static void main(String[] args) {
+        int a=2, b=3,d=9, c=8, e=67, f=1, g=5;
+
+        System.out.println(a > 2);
+        System.out.println(b <= 25 && b > 5);
+        System.out.println(c > 6 || c == d);
+        System.out.println((e%2)==0 || e < 50);
+        System.out.println(f > a && f > b && f > c);
+        System.out.println(g == 3 || g == 4 || g == 5);
